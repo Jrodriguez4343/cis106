@@ -1,0 +1,18 @@
+# What is GNU+Linux?
+GNU+Linux is an operating sytem, One of the most popular OS on the market it is used in alot of the devices you use today.
+# 3 Reasons to use GNU+Linux:
++ Web Servers - GNU+Linux can be used to run an Apache web server using Ubuntu
++ Complete Control - GNU+Linux is appealing to users since it offers complete control of its function to its users, unlike other Operating Systems
++ Affordability - With GNU+Linux being open source and free to use, it allows developers on a tight budegt to create develop projects with minimal start up costs.
+
+
+# Other operating systems
+* **Microsoft Windows** is a group of several proprietary graphical operating system families, all of which are developed and marketed by Microsoft.
+![](windowslogo.png) 
+* **macOS** is a series of proprietary graphical operating systems developed and marketed by Apple Inc.
+![](macoslogo.jpg) 
+* **FreeBSD** is a free and open-source Unix-like operating system descended from the Berkeley Software Distribution (BSD), which was based on Research Unix.
+![](freebsdlogo.png)
+* **RISC OS** is a computer operating system originally designed by Acorn Computers Ltd in Cambridge, England.
+![](riscos.png) 
+
